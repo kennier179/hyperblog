@@ -1,4 +1,3 @@
-Prueba de texto plano git
-Creacion de commits
-Modificando git
-Mirando el funcionamiento de checkout
+Texto plano con git
+Utilizando checkout
+Subiendo commits
